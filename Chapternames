@@ -1,15 +1,15 @@
 {
-  "title": "<Bungao Stray Dogs Official Compilation>",
-  "description": "<Official Compilation of Bungao Stray Dogs shorts>",
-  "artist": "<Various Artists>",
-  "author": "<Varioust Authors>",
+  "title": "Bungao Stray Dogs Official Compilation",
+  "description": "Official Compilation of Bungao Stray Dogs shorts",
+  "artist": "Various Artists",
+  "author": "Varioust Authors",
   "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "<08>": {
-      "title": "<Senpai's Health is also my job>",
-      "volume": "<01>",
+    "08": {
+      "title": "Senpai's Health is also my job",
+      "volume": "01",
       "groups": {
-        "<TOOR Scan>": "/proxy/api/imgur/chapter/<bf9Bbna>/"
+        "TOOR Scan": "/proxy/api/imgur/chapter/bf9Bbna/"
       },
       "last_updated": "1616368746"
     }
